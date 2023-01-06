@@ -20,7 +20,3 @@ My name is Hiroto originally from Japan and based in France. Having worked for a
 
 ## Recent Events
 I’m currently learning React and Next.js 
-
-## Socials
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/hyoshimori)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/hiroto-yoshimori//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/https://www.instagram.com/nekogurashi_to_tabi//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://63b771863aaf4e47abf5520f--glowing-cranachan-a71cef.netlify.app/)  
-
