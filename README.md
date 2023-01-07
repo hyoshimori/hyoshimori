@@ -1,6 +1,6 @@
 ## Hiroto YOSHIMORI
 
-![Profile Photo](profile_photo.jpg)
+![Profile Photo](profile-photo.jpg)
 
 ## Skills
 
