@@ -1,6 +1,6 @@
 ## Hiroto YOSHIMORI
 
-![Front-End Developer](https://media.licdn.com/dms/image/C4E16AQHXyIXLsKlk_A/profile-displaybackgroundimage-shrink_350_1400/0/1639091707686?e=1678320000&v=beta&t=EHEk4s_qqsfyGqqpsWqC7LegKP_QE59iWHJoXPEOXeo)
+![Profile Photo](profile.jpg)
 
 ## Skills
 
@@ -15,5 +15,5 @@ My name is Hiroto originally from Japan and based in France. Having worked for a
 
 [HIROTO YOSHIMORI DESIGN](https://hyoshimori-portfolio.netlify.app/)
 
-## Recent Events
-I’m currently learning React and Next.js 
+## Message
+I’m currently learning React and Next.js. By the way the I love cycling and it is me in the photo. Let's talk if you have similar hobbies!
