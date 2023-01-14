@@ -16,4 +16,4 @@ My name is Hiroto originally from Japan and based in France. Having worked for a
 [HIROTO YOSHIMORI DESIGN](https://hyoshimori-portfolio.netlify.app/)
 
 ## Message
-I'm currently learning React and Next.js. I love cycling, hiking, travelling video games, and coding. Let's talk if you have similar hobbies.
+I'm currently learning React and Next.js. I love cycling, hiking, travelling video games, and coding. Let's talk if you have similar intressts.
