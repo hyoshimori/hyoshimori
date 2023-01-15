@@ -4,8 +4,9 @@
 
 ## Skills
 
-| React | JavaScript | Ruby on Rails | Ruby | HTML | CSS | SQL |
-|-------|------------|---------------|------|------|-----|-----|
+| React | Next.js | JavaScript | Ruby on Rails | Ruby | HTML | CSS | SQL |
+|-------|---------|------------|---------------|------|------|-----|-----|
+
 
 ## Front-End Developer
 
