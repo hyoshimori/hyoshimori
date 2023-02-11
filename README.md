@@ -12,7 +12,7 @@
 
 My name is Hiroto and I am originally from Japan, but currently based in France. I have worked for a French start-up for the past three years as a translator and I am passionate about coding.
 
-I had the opportunity to study at Le Wagon and I was chosen to be a [top profile student](https://kitt.lewagon.com/newsletters/477/public_show?signature=aabc3f95f39b304e820a49d51f36674fbb9a1c25), as I strive for excellence in all that I do. This educational experience has allowed me to deepen my understanding of coding and solidified my passion for technology and innovation. 
+I had the opportunity to study at Le Wagon and I was chosen to be a <a href="https://kitt.lewagon.com/newsletters/477/public_show?signature=aabc3f95f39b304e820a49d51f36674fbb9a1c25" target="_blank">Top Profile Student</a>, as I strive for excellence in all that I do. This educational experience has allowed me to deepen my understanding of coding and solidified my passion for technology and innovation. 
 
 With my background in both human and computer languages, I am eager to communicate effectively with both people and software.
 
