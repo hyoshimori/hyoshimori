@@ -20,5 +20,9 @@ With my background in both human and computer languages, I am looking forward to
 
 [HIROTO YOSHIMORI DESIGN](https://hyoshimori-portfolio.netlify.app/)
 
+## Social Activities
+
+Follow me on [Codewars](https://www.codewars.com/users/hyoshimori), [LinkedIn](https://www.linkedin.com/in/hiroto-yoshimori/) and [Instagram](https://www.instagram.com/hiro_y_photo/).
+
 ## Message
 I'm currently learning TypeScript and Next.js. I love cycling, hiking, travelling video games, and coding. Let's talk if you have similar intressts.
