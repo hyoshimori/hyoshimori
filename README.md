@@ -28,7 +28,7 @@ I'm currently learning TypeScript and Next.js. I love cycling, hiking, travellin
 Connect with me:
 
 <p align="left">
-  <a href="https://www.codewars.com/users/hyoshimori" target="_blank"><img alt="Codewars" src="https://img.shields.io/badge/Codewars-6kyu-grey?style=flat&logo=codewars"></a>
-  <a href="https://www.linkedin.com/in/hiroto-yoshimori/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Hiroto%20Yoshimori-grey?style=flat&logo=linkedin"></a>
+  <a href="https://www.codewars.com/users/hyoshimori" target="_blank"><img alt="Codewars" src="https://img.shields.io/badge/Codewars-6kyu-white?style=flat&logo=codewars"></a>
+  <a href="https://www.linkedin.com/in/hiroto-yoshimori/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Hiroto%20Yoshimori-white?style=flat&logo=linkedin"></a>
   <a href="https://www.instagram.com/hiro_y_photo/" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-grey?style=flat&logo=instagram&logoColor=white"></a>
 </p>
