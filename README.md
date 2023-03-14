@@ -1,6 +1,6 @@
 ## Hiroto YOSHIMORI
 
-![cover photo](https://i.imgur.com/nKhYDz1.jpg)
+![cover photo](https://i.imgur.com/UnFGoEb.png)
 
 ## Skills
 
