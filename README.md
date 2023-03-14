@@ -21,7 +21,7 @@ With my background in both human and computer languages, I am looking forward to
 [HIROTO YOSHIMORI DESIGN](https://hyoshimori-portfolio.netlify.app/)
 
 ## Message
-I'm currently learning TypeScript and Next.js. I love cycling, hiking, travelling video games, and coding. Let's talk if you have similar intressts.
+Recently started to play on leetCode. It is challenging but a great way to have deeper understanding of solid algorithm.
 
 ## Social Activities
 
@@ -29,7 +29,7 @@ Connect with me:
 
 <p align="left">
   <a href="https://www.codewars.com/users/hyoshimori" target="_blank"><img alt="Codewars" src="https://img.shields.io/badge/Codewars-5kyu-lightblue?style=flat&logo=codewars"></a>
-  <a href="https://leetcode.com/hyoshimori/" target="_blank"><img alt="LeetCode" src="https://img.shields.io/badge/LeetCode-Hiroto%20Yoshimori-lightblue?style=flat&logo=leetcode&logoColor=white"></a>
+  <a href="https://leetcode.com/hyoshimori/" target="_blank"><img alt="LeetCode" src="https://img.shields.io/badge/LeetCode-hyoshimori-lightblue?style=flat&logo=leetcode&logoColor=white"></a>
   <a href="https://www.linkedin.com/in/hiroto-yoshimori/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Hiroto%20Yoshimori-lightblue?style=flat&logo=linkedin"></a>
   <a href="https://www.instagram.com/hiro_y_photo/" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-hiro_y_photo-lightblue?style=flat&logo=instagram&logoColor=white"></a>
 </p>
