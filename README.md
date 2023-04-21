@@ -4,8 +4,8 @@
 
 ## Skills
 
-| React | Next.js | JavaScript | TypeScript | Jest | Ruby on Rails | Ruby | HTML | CSS | SQL |
-|-------|---------|------------|------------|------|---------------|------|------|-----|-----|
+| React | Next.js | JavaScript | TypeScript | Jest | Ruby on Rails | Ruby | HTML | CSS | SQL | Django | Python |
+|-------|---------|------------|------------|------|---------------|------|------|-----|-----|--------|--------|
 
 
 ## Front-End Developer
@@ -20,8 +20,30 @@ I look forward to a fruitful learning journey ahead!
 
 [HIROTO YOSHIMORI DESIGN](https://hyoshimori-portfolio.netlify.app/)
 
-## Message
-Recently started to play on leetCode. It is challenging but a great way to have deeper understandings of solid algorithm.
+## Updates
+
+> 📎 **Updated on: _April 22, 2023_**
+>
+> Started learning **Django**.
+>
+> ---
+
+> 📎 **Updated on: _March 14, 2023_**
+>
+> Recently started to play on **_LeetCode_**. It is challenging but a great way to have deeper understandings of solid algorithm.
+
+> ---
+
+> 📎 **Updated on: _January 7, 2023_**
+>
+> I'm currently learning React and Next.js. I love cycling, hiking, and coding, and it is me in the photo. Let's talk if you have similar hobbies.
+
+> ---
+
+> 📎 **Updated on: _December 17, 2022_**
+>
+> Successfully completed the 6-month web development course at Le Wagon in Paris.
+
 
 ## Social Activities
 
