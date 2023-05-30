@@ -22,6 +22,12 @@ I look forward to a fruitful learning journey ahead!
 
 ## Updates
 
+> 📎 **Updated on: _May 25, 2023_**
+>
+> Moved to **Tokyo!**
+>
+> ---
+
 > 📎 **Updated on: _April 22, 2023_**
 >
 > Started learning **Django**.
