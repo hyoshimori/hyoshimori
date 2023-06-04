@@ -10,11 +10,8 @@
 
 ## Front-End Developer
 
-Hi! My name is Hiroto. I have worked for a French start-up for about three years as a translator, where I became passionate about coding.
-
-I had an opportunity to study at Le Wagon and I was chosen to be a <a href="https://kitt.lewagon.com/newsletters/477/public_show?signature=aabc3f95f39b304e820a49d51f36674fbb9a1c25">Top Profile Student</a>, as I tried to pay attention to small details. This educational experience has allowed me to deepen my understanding of coding and solidified my passion for technology and creation. 
-
-I look forward to a fruitful learning journey ahead!
+Hey! My name is Hiroto. I have worked for a French start-up as a translator, where I became passionate about coding.<br> 
+Now, I work as a JavaScript engineer in Tokyo!
 
 ## Example of Work
 
