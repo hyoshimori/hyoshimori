@@ -17,7 +17,7 @@ Now, I work as a JavaScript engineer in Tokyo!
 
 [HIROTO YOSHIMORI DESIGN](https://hyoshimori-portfolio.netlify.app/)
 
-## Updates
+<!-- ## Updates
 
 > 📎 **Updated on: _May 25, 2023_**
 >
@@ -45,7 +45,7 @@ Now, I work as a JavaScript engineer in Tokyo!
 
 > 📎 **Updated on: _December 17, 2022_**
 >
-> Successfully completed the 6-month web development course at Le Wagon in Paris.
+> Successfully completed the 6-month web development course at Le Wagon in Paris. -->
 
 
 ## Social Activities
