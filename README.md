@@ -2,7 +2,7 @@
 
 ![cover photo](https://i.imgur.com/Ui4VNMx.jpg)
 
-## Skills
+## Coding Skills
 
 | React | JavaScript | TypeScript | Jest | Ruby on Rails | Ruby | HTML | CSS |
 |-------|------------|------------|------|---------------|------|------|-----|
