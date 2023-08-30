@@ -11,7 +11,7 @@
 ## Front-End Developer
 
 Hey! My name is Hiroto. I have worked for a French start-up as a translator, where I became passionate about coding.<br> 
-Now, I work as a JavaScript engineer in Tokyo!
+Now, I work as a JavaScript engineer!
 
 ## Example of Work
 
