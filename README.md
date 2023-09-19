@@ -13,10 +13,6 @@
 Hey! My name is Hiroto. I have worked for a French start-up as a translator, where I became passionate about coding.<br> 
 Now, I work as a full-stack developer!
 
-## Example of Work
-
-[HIROTO YOSHIMORI DESIGN](https://hyoshimori-portfolio.netlify.app/)
-
 <!-- ## Updates
 
 > 📎 **Updated on: _May 25, 2023_**
