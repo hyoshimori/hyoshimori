@@ -13,37 +13,6 @@
 Hey! My name is Hiroto. I have worked for a French start-up as a translator, where I became passionate about coding.<br> 
 Now, I work as a full-stack developer!
 
-<!-- ## Updates
-
-> 📎 **Updated on: _May 25, 2023_**
->
-> Moved to **Tokyo!**
->
-> ---
-
-> 📎 **Updated on: _April 22, 2023_**
->
-> Started learning **Django**.
->
-> ---
-
-> 📎 **Updated on: _March 14, 2023_**
->
-> Recently started to play on **_LeetCode_**. It is challenging but a great way to have deeper understandings of solid algorithm.
-
-> ---
-
-> 📎 **Updated on: _January 7, 2023_**
->
-> I'm currently learning React and Next.js. I love cycling, hiking, and coding, and it is me in the photo. Let's talk if you have similar hobbies.
-
-> ---
-
-> 📎 **Updated on: _December 17, 2022_**
->
-> Successfully completed the 6-month web development course at Le Wagon in Paris. -->
-
-
 ## Social Activities
 
 Connect with me:
