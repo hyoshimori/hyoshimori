@@ -4,8 +4,8 @@
 
 ## Coding Skills
 
-| React | JavaScript | TypeScript | Jest | Ruby on Rails | Ruby | HTML | CSS |
-|-------|------------|------------|------|---------------|------|------|-----|
+| React | JavaScript | TypeScript | Jest | Playwright | Ruby on Rails | Ruby | HTML | CSS |
+|-------|------------|------------|------|------------|---------------|------|------|-----|
 
 
 ## Full-stack Developer
