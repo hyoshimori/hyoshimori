@@ -15,7 +15,7 @@ Now, I work as a full-stack developer!
 
 ## Portfolio
 
-Check out my <a href="https://hyoshimori-portfolio.netlify.app/" target="_blank">portfolio</a> here!.
+Check out my <a href="https://hyoshimori-portfolio.netlify.app/" target="_blank">portfolio</a> here!
 
 ## Social Activities
 
