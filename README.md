@@ -2,12 +2,6 @@
 
 ![cover photo](https://i.imgur.com/Ui4VNMx.jpg)
 
-## Coding Skills
-
-| React | JavaScript | TypeScript | Jest | Playwright | Ruby on Rails | Ruby | HTML | CSS |
-|-------|------------|------------|------|------------|---------------|------|------|-----|
-
-
 ## Full-stack Developer
 
 Hey! My name is Hiroto. I have worked for a French start-up as a translator in Paris, where I became passionate about coding.<br> 
