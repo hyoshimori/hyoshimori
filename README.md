@@ -1,4 +1,4 @@
-## Hiroto
+## Hiroto Yoshimori
 
 ![cover photo](https://i.imgur.com/Ui4VNMx.jpg)
 
