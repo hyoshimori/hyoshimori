@@ -4,7 +4,7 @@
 
 ## Software engineer
 
-Hey! My name is Hiroto. I have worked for a French start-up as a translator in Paris, where I became passionate about coding.<br> 
+Hey! My name is Hiroto. I have worked for a French start-up in Paris, where I became passionate about coding.<br> 
 Now, I work as a System Engineer in Tokyo!
 
 ## Social Activities
